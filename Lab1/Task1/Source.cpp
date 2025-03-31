@@ -1,11 +1,13 @@
 #include <iostream>
+
 using namespace std;
 
-void main(void) 
+void main(void)
 {
 	int i, k;
 	int num;
 	int power(int, int);
+	//ввод основания
 	cin >> num;
 	for (i = 0; i < 10; i++)
 	{
